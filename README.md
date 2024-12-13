@@ -1,11 +1,11 @@
 
-# Dolfin Application
+# Reactica Application
 
 ## Overview
 
-**Dolfin** is a comprehensive finance management application designed specifically for students. It empowers users to manage their finances effectively by adding budgets and tracking expenses. Based on the budget and recorded expenses, the app provides insightful analytics, allowing students to view detailed breakdowns of their spending habits.
+**Reactica** is a comprehensive finance management application designed specifically for students. It empowers users to manage their finances effectively by adding budgets and tracking expenses. Based on the budget and recorded expenses, the app provides insightful analytics, allowing students to view detailed breakdowns of their spending habits.
 
-The application visualizes data through intuitive charts and cards, making it easy for students to understand their expense patterns at a glance. By helping users monitor and control their spending, Dolfin aims to support financial literacy and smarter budgeting choices for students.
+The application visualizes data through intuitive charts and cards, making it easy for students to understand their expense patterns at a glance. By helping users monitor and control their spending, Reactica aims to support financial literacy and smarter budgeting choices for students.
 
 ## Features
 
@@ -29,8 +29,8 @@ Ensure you have the following tools installed on your system:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dolfin.git
-   cd dolfin
+   git clone https://github.com/yourusername/Reactica.git
+   cd Reactica
    ```
 
 2. **Install Dependencies:** Choose one of the following:
